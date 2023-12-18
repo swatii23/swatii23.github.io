@@ -94,7 +94,7 @@ const Projects = () => {
               <button><a target="blank" href='https://github.com/swatii23/wood-fans'>Github</a></button>
             </div>
           </div>
-          <div className='firstProjectDis'>
+          {/* <div className='firstProjectDis'>
           <div>
               <h2>Portfolio</h2>
             </div>
@@ -114,7 +114,7 @@ const Projects = () => {
           </div>
           <div className='firstProject'>
           <a target="blank" href='https://github.com/swatii23/swatii23.github.io'><img src={p4} alt="Portfolio" className='projectImg'/></a>
-          </div>
+          </div> */}
         </div>
       </div>
       <div className='projectMinScrDiv'>

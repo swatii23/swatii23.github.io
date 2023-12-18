@@ -12,16 +12,16 @@
 .homeDivImg{
     box-shadow: rgba(16, 20, 223, 0.56) 0px 22px 70px 15px;
     height: 400px;
-    width: 450px;
+    width: 400px;
     border-radius: 50%;
     
 }
 
 .resumeBtn{
-    height: 65px;
-    width: 200px;
-    font-size: 40px;
-    font-weight: 700;
+    height: 60px;
+    width: 150px;
+    font-size: 30px;
+    font-weight: 600;
     margin-top: 20px;
     background-color: transparent;
     border:1px solid blueviolet ;

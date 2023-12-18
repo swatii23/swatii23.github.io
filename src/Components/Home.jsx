@@ -3,7 +3,7 @@ import Typical from "react-typical";
 import { Heading, Image } from "@chakra-ui/react";
 import "./Styles/Home.css"
 import raj from "../Images/hero.jpg"
-import Resume from "../Swati Mandal-resume.pdf"
+import Resume from "../Swati-Mandal-Resume.pdf"
 // import { Link } from "react-scroll";
 
 export const Home = () => {
