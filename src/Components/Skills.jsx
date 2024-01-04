@@ -14,7 +14,7 @@ import skills from "../Images/skills.png";
 import Netlify from "../Images/netlify.png";
 import DSA from "../Images/DSA.jpeg";
 import Vercel from "../Images/vercel.png";
-import VSCode from "../Images/VSCode.png";
+import VSCode from "../Images/VSCode.png"
 
 export const Skills = () => {
   return (
